@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-11T09:35:29.743Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="dv0dwKyVzGGUVQM7nie5" version="14.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-11T09:57:06.562Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="4ykIq96O7iA01wXnAyWF" version="14.4.7" type="github">
   <diagram id="3TG3PWvO12CCkWI3tpkz" name="第 1 页">
-    <mxGraphModel dx="1425" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="535" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,13 +8,13 @@
           <mxGeometry x="174.25" y="20" width="470" height="260" as="geometry" />
         </mxCell>
         <mxCell id="nwXhbX-o7swwx8_nz2Ns-2" value="&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E5%88%B0%E6%89%8B%E4%BB%B7%E4%BB%B7%E6%A0%BC%E5%8E%86%E5%8F%B2%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22192.13%22%20y%3D%22585%22%20width%3D%2231%22%20height%3D%22110%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="164.25" y="810" width="480" height="180" as="geometry" />
+          <mxGeometry x="169.25" y="780" width="480" height="180" as="geometry" />
         </mxCell>
         <mxCell id="nwXhbX-o7swwx8_nz2Ns-3" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="171.38" y="570" width="475.75" height="220" as="geometry" />
+          <mxGeometry x="171.38" y="570" width="475.75" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="nwXhbX-o7swwx8_nz2Ns-4" value="基础功能" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="190.32" y="820" width="427.87" height="35" as="geometry" />
+        <mxCell id="nwXhbX-o7swwx8_nz2Ns-4" value="系统能力项" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="195.32" y="790" width="427.87" height="35" as="geometry" />
         </mxCell>
         <mxCell id="nwXhbX-o7swwx8_nz2Ns-5" value="使用范围" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="193.25" y="30" width="440" height="40" as="geometry" />
@@ -50,31 +50,28 @@
           <mxGeometry x="487.13" y="650" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nwXhbX-o7swwx8_nz2Ns-32" value="到手价价格历史" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="190.32" y="865" width="31" height="110" as="geometry" />
+          <mxGeometry x="195.32" y="835" width="31" height="110" as="geometry" />
         </mxCell>
         <mxCell id="nwXhbX-o7swwx8_nz2Ns-33" value="促销规则校验" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="248.19" y="865" width="31" height="110" as="geometry" />
+          <mxGeometry x="253.19" y="835" width="31" height="110" as="geometry" />
         </mxCell>
         <mxCell id="nwXhbX-o7swwx8_nz2Ns-34" value="到手价计算器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="298.19" y="865" width="31" height="110" as="geometry" />
+          <mxGeometry x="303.19" y="835" width="31" height="110" as="geometry" />
         </mxCell>
         <mxCell id="nwXhbX-o7swwx8_nz2Ns-35" value="价格锁定" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="348.19" y="865" width="31" height="110" as="geometry" />
+          <mxGeometry x="353.19" y="835" width="31" height="110" as="geometry" />
         </mxCell>
         <mxCell id="nwXhbX-o7swwx8_nz2Ns-36" value="腰带生成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="397.19" y="865" width="31" height="110" as="geometry" />
+          <mxGeometry x="439.57" y="835" width="31" height="110" as="geometry" />
         </mxCell>
         <mxCell id="nwXhbX-o7swwx8_nz2Ns-37" value="比价" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="498.19" y="865" width="31" height="110" as="geometry" />
+          <mxGeometry x="540" y="835" width="31" height="110" as="geometry" />
         </mxCell>
         <mxCell id="nwXhbX-o7swwx8_nz2Ns-38" value="到手价实时计算" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="448.19" y="865" width="31" height="110" as="geometry" />
+          <mxGeometry x="487.13" y="835" width="31" height="110" as="geometry" />
         </mxCell>
         <mxCell id="nwXhbX-o7swwx8_nz2Ns-39" value="价保校验" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="545.19" y="867.5" width="31" height="105" as="geometry" />
-        </mxCell>
-        <mxCell id="nwXhbX-o7swwx8_nz2Ns-43" value="违规惩罚" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="590.19" y="865" width="31" height="110" as="geometry" />
+          <mxGeometry x="592.19" y="835" width="31" height="105" as="geometry" />
         </mxCell>
         <mxCell id="nwXhbX-o7swwx8_nz2Ns-48" value="&lt;font style=&quot;font-size: 16px&quot;&gt;场景&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="199.32000000000005" y="95" width="40" height="20" as="geometry" />
@@ -147,6 +144,39 @@
         </mxCell>
         <mxCell id="nwXhbX-o7swwx8_nz2Ns-86" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=4;fontColor=#ffffff;fillColor=none;strokeColor=#7EA6E0;" vertex="1" parent="1">
           <mxGeometry x="210" y="640" width="401.81" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nwXhbX-o7swwx8_nz2Ns-87" value="促销锁定" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="396.13" y="835" width="31" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="nwXhbX-o7swwx8_nz2Ns-88" value="&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E5%88%B0%E6%89%8B%E4%BB%B7%E4%BB%B7%E6%A0%BC%E5%8E%86%E5%8F%B2%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22192.13%22%20y%3D%22585%22%20width%3D%2231%22%20height%3D%22110%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="173" y="980" width="480" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="nwXhbX-o7swwx8_nz2Ns-89" value="违规惩罚" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="201.63000000000002" y="1000" width="420" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nwXhbX-o7swwx8_nz2Ns-91" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="195.32" y="1030" width="194.68" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="nwXhbX-o7swwx8_nz2Ns-92" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1030" width="207.13" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="nwXhbX-o7swwx8_nz2Ns-93" value="大促期间" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="255.27" y="1040" width="75.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nwXhbX-o7swwx8_nz2Ns-94" value="营销活动" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="482.1" y="1040" width="75.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nwXhbX-o7swwx8_nz2Ns-95" value="预热期：下标腰带流量场景沉底？" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1067.5" width="187.12" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nwXhbX-o7swwx8_nz2Ns-96" value="活动期：下标腰带流量场景沉底？&lt;br&gt;。。。" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1102.5" width="184.68" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="nwXhbX-o7swwx8_nz2Ns-97" value="预热期：下标腰带流量场景沉底？" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="418.24" y="1067.5" width="187.12" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nwXhbX-o7swwx8_nz2Ns-98" value="活动期：下标腰带流量场景沉底？&lt;br&gt;。。。" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="419.46" y="1105" width="184.68" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
