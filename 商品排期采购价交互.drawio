@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-19T10:43:23.182Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="loZtxsatg1cSO5C-2nkZ" version="15.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-19T10:48:02.655Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="u40gvmaKra9d5RIytIbL" version="15.5.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2893" dy="1097" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -166,7 +166,7 @@
             <mxPoint x="177.60000000000036" y="1230.0558139534887" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JaGCP64lXndvB-nV4re8-117" value="与距离最近的一条生效采购价对比" style="rounded=1;whiteSpace=wrap;html=1;" parent="JaGCP64lXndvB-nV4re8-1" vertex="1">
+        <mxCell id="JaGCP64lXndvB-nV4re8-117" value="与审批通过的生效时间最近的前一条采购价对比" style="rounded=1;whiteSpace=wrap;html=1;" parent="JaGCP64lXndvB-nV4re8-1" vertex="1">
           <mxGeometry x="120" y="1140" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JaGCP64lXndvB-nV4re8-124" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" parent="JaGCP64lXndvB-nV4re8-1" edge="1">
