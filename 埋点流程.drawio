@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-08T16:48:16.636Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="8h5LIwg0WJAecc19G0tS" version="15.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-09T06:25:38.953Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="jqS9XTZx5ksI1Pft1Xmw" version="15.5.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2066" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -790,8 +790,14 @@
         <mxCell id="6Etbs40CvCBS5D00gBuw-276" value="&lt;span&gt;完成埋点&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="6Etbs40CvCBS5D00gBuw-41">
           <mxGeometry x="257.5" y="3420" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="6Etbs40CvCBS5D00gBuw-283" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="6Etbs40CvCBS5D00gBuw-41" source="6Etbs40CvCBS5D00gBuw-280" target="6Etbs40CvCBS5D00gBuw-282">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6Etbs40CvCBS5D00gBuw-280" value="&lt;span&gt;测试回归&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="6Etbs40CvCBS5D00gBuw-41">
           <mxGeometry x="257.5" y="3500" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6Etbs40CvCBS5D00gBuw-282" value="&lt;span&gt;生成测试报告发送提报人，数据&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="6Etbs40CvCBS5D00gBuw-41">
+          <mxGeometry x="257.5" y="3580" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6Etbs40CvCBS5D00gBuw-40" value="埋点SDK" style="swimlane;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1680" y="940" width="320" height="3650" as="geometry" />
@@ -825,6 +831,9 @@
         </mxCell>
         <mxCell id="6Etbs40CvCBS5D00gBuw-260" value="ID格式：站点标记_一级路由_二级路由&lt;br&gt;是否可以自由命名？" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=12;" vertex="1" parent="6Etbs40CvCBS5D00gBuw-40">
           <mxGeometry x="90" y="3100" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Etbs40CvCBS5D00gBuw-285" value="埋点文档支持下载" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=12;" vertex="1" parent="6Etbs40CvCBS5D00gBuw-40">
+          <mxGeometry x="95" y="2620" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6Etbs40CvCBS5D00gBuw-46" value="埋点方案" style="swimlane;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1990" y="85" width="260" height="520" as="geometry" />
